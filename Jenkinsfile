@@ -3,7 +3,7 @@ agent any
 stages{
 stage("Code"){
   steps{
-sh "npm install --verbose -omit=optional"
+sh "npm install "
 sh "npm run build"
 }
 }
