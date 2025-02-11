@@ -28,7 +28,7 @@ function Footer(){
                 </ul>
             </div>
         </footer>
-        <h2>DEV@Deakin 2022</h2>
+        <h2>DEV@Deakin 2025</h2>
         <div className="footer-bg-last"> 
             <p>Privacy Policy</p>
             <p>Terms</p>
