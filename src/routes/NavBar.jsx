@@ -32,7 +32,7 @@ var isLoggedIn = null
     <div>
       <header>
         <div className="nav_div">
-          <p>DEV@Deakin</p>
+          <p>DEV@Moksh</p>
           <input type="search" onChange={(e)=>{setSearch(e.target.value)}} placeholder="Search..." value={search} />
           
           <div className="nav_but">
